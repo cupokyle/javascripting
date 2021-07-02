@@ -4,3 +4,4 @@ const pizza = {
   serves: 2
 }
 console.log(pizza);
+// Just a test
